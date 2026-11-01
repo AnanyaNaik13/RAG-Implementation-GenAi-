@@ -1,0 +1,6 @@
+   streamlit
+   chromadb
+   PyPDF2
+   langchain-groq
+   langchain-text-splitters
+   python-dotenv
